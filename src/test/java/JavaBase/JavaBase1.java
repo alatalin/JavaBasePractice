@@ -51,7 +51,5 @@ public class JavaBase1 {
         int x = Integer.MAX_VALUE;
         System.out.println("x = " + (x));
         System.out.println("x * 2 = " + (x * 2));
-
     }
-
 }
